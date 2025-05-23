@@ -1,28 +1,12 @@
-© StockSun Inc. All Rights Reserved. 
-
-発行：2025年02月03日 
-
-更新：2025年02月03日 
-
-ver.1.0 
-
-さまざまな企業のTikTok運用を行なってきた 
-
-StockSunのTikTok運用における品質評価基準を明文化したガイドラインです。 
-
 # TikTok運⽤ 
 
 # ガイドライン 
-
-# 品質ガイドライン 
-
-# 08 © StockSun Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 462 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン
 
 1. 事前リサーチ 
 
