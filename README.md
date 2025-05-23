@@ -15,3 +15,5 @@
 ## 📝 ライセンス
 
 このプロジェクトは個人使用・学習目的のためのものです。
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kayahara-yuki/sns-manual)
