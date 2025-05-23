@@ -52,7 +52,7 @@ Instagram 運用ガイドライン
 
 1-6-1. 商材の単価ごとの導線設計を把握しているか？
 
-p.713 © StockSun Inc. All Rights Reserved.
+p.713 ©  Inc. All Rights Reserved.
 
 1-7. プロフィール
 
@@ -104,9 +104,9 @@ p.713 © StockSun Inc. All Rights Reserved.
 
 706
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
-2. フィード p.723 © StockSun Inc. All Rights Reserved.
+2. フィード p.723 ©  Inc. All Rights Reserved.
 
 2-2. 企画
 
@@ -170,13 +170,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 707
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+Instagram 運用ガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
 708
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 3. リール
 
@@ -240,13 +240,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 3-3-13. 動画の画質が高いか
 
-p.734 © StockSun Inc. All Rights Reserved.
+p.734 ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
 709
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 4. ストーリー
 
@@ -308,7 +308,7 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 4-2-22. 閲覧数を高められているか
 
-p.741 © StockSun Inc. All Rights Reserved.
+p.741 ©  Inc. All Rights Reserved.
 
 4-3. 数値分析
 
@@ -358,13 +358,13 @@ p.741 © StockSun Inc. All Rights Reserved.
 
 710
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+Instagram 運用ガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
 711
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 5. インフルエンサー
 
@@ -410,13 +410,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 アンバサダーマーケを実施できているか
 
-p.750 © StockSun Inc. All Rights Reserved.
+p.750 ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
 712
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 6. 番外編
 
@@ -464,7 +464,7 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 6-2-7. アカウントの作り直し
 
-p.754 © StockSun Inc. All Rights Reserved.
+p.754 ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
@@ -472,7 +472,7 @@ p.754 © StockSun Inc. All Rights Reserved.
 
 1-1 アカウントコンセプト
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 アカウントの方針は大きく 3 つに大別されます。
 
@@ -526,13 +526,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 自社でしか出せない情報を明確に設計しましょう
 
-デザイン性の高いリフォームに強みがある場合 Ex. © StockSun Inc. All Rights Reserved.
+デザイン性の高いリフォームに強みがある場合 Ex. ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 714
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 1-2 ジャンル選定
 
@@ -566,13 +566,13 @@ b. 200 投稿以内に 1 万フォロワー達成しているか
 
 1-2-2 狭すぎるキーワードを攻めすぎていないか？
 
-Ex. © StockSun Inc. All Rights Reserved.
+Ex. ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 715
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 1-3 ジャンル認知
 
@@ -616,13 +616,13 @@ Ex.
 
 美容系の場合 Ex.
 
-#美容 #スキンケア #エステ #美肌 © StockSun Inc. All Rights Reserved.
+#美容 #スキンケア #エステ #美肌 ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 716
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 同ジャンルの特に伸びているアカウントを 10 アカウント以上フォローすること。
 
@@ -644,13 +644,13 @@ Instagram プラットフォーム側に、「〇〇に関するアカウント�
 
 1. 「暮らし」で検索し、1 つフォロー
 
-2. そのフォロー欄からさらにフォロー(フォロワー 1 万人以上) © StockSun Inc. All Rights Reserved.
+2. そのフォロー欄からさらにフォロー(フォロワー 1 万人以上) ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 717
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 下記 3 つを追うことを推奨。
 
@@ -708,13 +708,13 @@ G
 
 サイトが理解でき、自社が実施する施策の参考にすることができます。
 
-競合の Instagram 活用事例からユーザーインサイトを把握しましょう © StockSun Inc. All Rights Reserved.
+競合の Instagram 活用事例からユーザーインサイトを把握しましょう ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 718
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 オーガニックで運用するアカウントで広告をかけてしまうと、エンゲージの低い
 
@@ -744,13 +744,13 @@ https://www.facebook.com/ads/library/?active_status=active&ad_type=political
 
 の 2 軸で発信を進めることで、スタッフのフォロワーからの流入も見込める。
 
-1-5-3 スタッフアカウントも並行して運用できているか © StockSun Inc. All Rights Reserved.
+1-5-3 スタッフアカウントも並行して運用できているか ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 719
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 商材単価によって下記のように導線構築を使い分ける必要がある。
 
@@ -784,13 +784,13 @@ Ex.
 
 しょう。
 
-事前に認知からコンバージョンまでの経路設計を行いましょう © StockSun Inc. All Rights Reserved.
+事前に認知からコンバージョンまでの経路設計を行いましょう ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 720
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 プロフィールは、簡潔に見やすくすること。
 
@@ -864,13 +864,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved.
+K©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 721
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 発信内容の信頼度を上げるために
 
@@ -918,13 +918,13 @@ LP と LINE のように、明確に CV 地点に差異がない場合は一つ�
 
 像を使用します。)
 
-1-7-5 フィード欄は整理されているか © StockSun Inc. All Rights Reserved.
+1-7-5 フィード欄は整理されているか ©  Inc. All Rights Reserved.
 
 # 01 初期設計
 
 722
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 法人名、わかりにくいサービス名などは効果が悪くなる傾向があるため注意するこ
 
@@ -940,7 +940,7 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 宮地陸 | 超実践インスタ運用
 
-StockSun 株式会社 | インスタ運用のコツを解
+ 株式会社 | インスタ運用のコツを解
 
 説
 
@@ -994,13 +994,13 @@ SNS においてパクリは NG です。最悪の場合は炎上し、会社に
 
 ます。弊社では必ず、同ジャンルのアカウントは 20 個以上調査しております。
 
-パクリは NG です © StockSun Inc. All Rights Reserved.
+パクリは NG です ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 723
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 X で発信キーワードのインサイトを深堀りすることを推奨。
 
@@ -1052,13 +1052,13 @@ Instagram で関連ハッシュタグを分析し、伸びている投稿を少�
 
 3. 1 と 2 両方のアプローチから、伸びている投稿を 50 個以上ストック
 
-(いいね数 ⚪ 件以上、リール再生 ⚪ 回以上など) © StockSun Inc. All Rights Reserved.
+(いいね数 ⚪ 件以上、リール再生 ⚪ 回以上など) ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 724
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 TikTok は、新企画・ユーザーの需要を発見できる便利なツール。
 
@@ -1082,13 +1082,13 @@ TikTok は、新企画・ユーザーの需要を発見できる便利なツー�
 
 X・TikTok・Instagram を用いて、ユーザーのインサイトを深掘りしましょう。
 
-他媒体を用いて、ユーザーのインサイトを深掘りしましょう © StockSun Inc. All Rights Reserved.
+他媒体を用いて、ユーザーのインサイトを深掘りしましょう ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 725
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 投稿案を作成する際は、下記の 3 点を基準にするとよい。
 
@@ -1146,13 +1146,13 @@ ex. クリスマスやバレンタインといった季節性でバズるもの
 
 例: 「3 分で分かるリール動画の編集方法」
 
-2-2 企画 © StockSun Inc. All Rights Reserved.
+2-2 企画 ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 726
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 初期は情報量を多めに設定すること。
 
@@ -1216,13 +1216,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved.
+K©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 727
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 自社アカウントでしか出せない強みで、競合の投稿との差別化を測る。
 
@@ -1274,13 +1274,13 @@ K
 
 るアカウントを作るうえで有効です。
 
-第三者視点を取り入れた企画チェックを行いましょう © StockSun Inc. All Rights Reserved.
+第三者視点を取り入れた企画チェックを行いましょう ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 728
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 デザインプロセス、製造過程、チームの紹介など、ブランドの裏側を見せる。
 
@@ -1316,13 +1316,13 @@ Ex.
 
 2-3 デザイン
 
-2-3-1 フォントは Canva で下記のいずれかを使用できているか © StockSun Inc. All Rights Reserved.
+2-3-1 フォントは Canva で下記のいずれかを使用できているか ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 729
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 下記の 3 つを活用することを推奨。
 
@@ -1360,13 +1360,13 @@ Instagram での投稿デザインに『近接』『整列』『対比』『反�
 
 ことで、視覚的魅力とコンテンツの理解を高めることができる。
 
-2-3-5 デザインの 4 原則 (近接、整列、対比、反復)を頭に入れているか © StockSun Inc. All Rights Reserved.
+2-3-5 デザインの 4 原則 (近接、整列、対比、反復)を頭に入れているか ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 730
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 ジャンルによって表紙のデザインは変える必要がある。
 
@@ -1392,13 +1392,13 @@ Ex.
 
 2-3-8 2~9 枚目は文字の表示面積を画面の 50%以下にし、
 
-残りの情報はビジュアルで表現できているか © StockSun Inc. All Rights Reserved.
+残りの情報はビジュアルで表現できているか ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 731
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 多くの情報を詰め込むとユーザーに伝えたいメッセージが伝わらない。
 
@@ -1422,13 +1422,13 @@ Ex.
 
 Ex.
 
-新規立ち上げの場合、最低 50 アカウント以上は分析する必要あります。 © StockSun Inc. All Rights Reserved.
+新規立ち上げの場合、最低 50 アカウント以上は分析する必要あります。 ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 732
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 検索結果から共通点を見つける。
 
@@ -1458,13 +1458,13 @@ Ex.
 
 > 作成者 宮地
 
-弊社では、チーム内にデザイナーを入れて高品質のクリエティブを作成しています。 © StockSun Inc. All Rights Reserved.
+弊社では、チーム内にデザイナーを入れて高品質のクリエティブを作成しています。 ©  Inc. All Rights Reserved.
 
 # 02 フィード
 
 733
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 視聴者数が多い金土日に集中させることで効果を最大化できる。
 
@@ -1480,13 +1480,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 → 検証の結果 1 番伸びている時間帯での投稿を継続する
 
-2-4-2 投稿時刻は少なくとも 5 通りほどでテストを行えているか © StockSun Inc. All Rights Reserved.
+2-4-2 投稿時刻は少なくとも 5 通りほどでテストを行えているか ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 734
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 平均視聴時間が重要な指標。
 
@@ -1538,13 +1538,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved.
+K©  Inc. All Rights Reserved.
 
 # 03 リール
 
 735
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 動画の最後に視聴者にコメントを促す、テロップや発言を入れる
 
@@ -1584,13 +1584,13 @@ G
 
 のように簡単な説明を加える。
 
-3-1-7 以前紹介したことがある内容が含まれているか © StockSun Inc. All Rights Reserved.
+3-1-7 以前紹介したことがある内容が含まれているか ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 736
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 被写体は、グリッドラインの 9 分割の真ん中、入り切らない場合はその周辺
 
@@ -1628,13 +1628,13 @@ iPhone で撮影する場合は「4K・60fps」「40K・30fps」で撮影する
 
 基本的には、少し下からやや上向きに撮影するのがコツ。
 
-3-2-5 撮影するスマホの高さ © StockSun Inc. All Rights Reserved.
+3-2-5 撮影するスマホの高さ ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 737
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 視聴者様の離脱率を減らすため、真ん中より下の位置での固定が理想。
 
@@ -1670,13 +1670,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 2 秒に一回などにしてしまうと多すぎて疲れてしまうので NG。
 
-3-3-4 4~5 秒に一度、展開を生めているか © StockSun Inc. All Rights Reserved.
+3-3-4 4~5 秒に一度、展開を生めているか ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 738
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 1. 露出
 
@@ -1733,13 +1733,13 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https:
 
 noECBEQAQ&usg=AOvVaw3dKpj6eKvG8DnnT28qnP81
 
-3-3-7 SE は、100 種類以上ダウンロードできているか © StockSun Inc. All Rights Reserved.
+3-3-7 SE は、100 種類以上ダウンロードできているか ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 739
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 3-3-8 強調したい部分では、複数のアニメーションを併用できているか
 
@@ -1779,13 +1779,13 @@ PremirePro の場合はクロスフェード、CapCut の場合は、カット�
 
 > 作成者 宮地
 
-企業アカウントの場合、社内の仕事風景や商品の画像を使用しましょう。 © StockSun Inc. All Rights Reserved.
+企業アカウントの場合、社内の仕事風景や商品の画像を使用しましょう。 ©  Inc. All Rights Reserved.
 
 # 03 リール
 
 740
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 3-3-12 縦に長いフォーマットで動画をフルスクリーンで使えているか
 
@@ -1799,13 +1799,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 在時間)を伸ばすことができる。
 
-3-3-13 動画の画質が高いか © StockSun Inc. All Rights Reserved.
+3-3-13 動画の画質が高いか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 741
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 4K60fps に設定すること。
 
@@ -1839,13 +1839,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 影することができます。
 
-4-1-5 iPhone をさかさに撮影し、被写体と目線を揃えられているか © StockSun Inc. All Rights Reserved.
+4-1-5 iPhone をさかさに撮影し、被写体と目線を揃えられているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 742
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 「最近気づいたダイエット方法」についての発信にもかかわらず、使用する画像が
 
@@ -1883,13 +1883,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 アパレルアカウント Ex.
 
-話のテーマは冬服なのに画像は食事の画像など © StockSun Inc. All Rights Reserved.
+話のテーマは冬服なのに画像は食事の画像など ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 743
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 視聴者の本質的な悩みや求めているものは何かを捉え、
 
@@ -1937,13 +1937,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 権威性に従いやすい
 
-4-2-10 心理学を活用できているか © StockSun Inc. All Rights Reserved.
+4-2-10 心理学を活用できているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 744
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 自身の考えや感想を徹底的に掘り下げ、シェアする
 
@@ -1975,13 +1975,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 ● 論理的に伝えるなら写真で長文ストーリーズ
 
-4-2-15 長文と短文の使い分けができているか © StockSun Inc. All Rights Reserved.
+4-2-15 長文と短文の使い分けができているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 745
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 成功の結果だけだと親近感が湧かなくなってしまう
 
@@ -2023,13 +2023,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 ● 嫌なこと
 
-4-2-20 価値観を発信しているか © StockSun Inc. All Rights Reserved.
+4-2-20 価値観を発信しているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 746
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 フォロワーの声を口コミとして共有する
 
@@ -2063,13 +2063,13 @@ Instagram から外部プラットフォームに遷移させる行動はプラ�
 
 嫌われる傾向がある
 
-4-4-2 リンク付きストーリーの頻度はおさえられているか © StockSun Inc. All Rights Reserved.
+4-4-2 リンク付きストーリーの頻度はおさえられているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 747
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 ● 質問は具体的に書く(「ストーリーについてのお悩み」など)
 
@@ -2111,13 +2111,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 ● DM をストーリーに掲載する
 
-4-4-7 DM を訴求しているか © StockSun Inc. All Rights Reserved.
+4-4-7 DM を訴求しているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 748
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 メンションしたアカウントから DM が来て交流することでジャンル認知に繋がる
 
@@ -2151,13 +2151,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 4-4-14 ストーリーズスタンプを使っているか、クイズ機能、
 
-気持ちバー機能を使っているか © StockSun Inc. All Rights Reserved.
+気持ちバー機能を使っているか ©  Inc. All Rights Reserved.
 
 # 04 ストーリー
 
 749
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 毎日行うのはユーザーが疲れてしまうので 2~3 日に一度が理想。
 
@@ -2167,13 +2167,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 例）8 時、12 時、18 時、21 時
 
-4-5-2 一日 4 件以上更新しているか © StockSun Inc. All Rights Reserved.
+4-5-2 一日 4 件以上更新しているか ©  Inc. All Rights Reserved.
 
 # 05 インフルエンサー
 
 750
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 下記 3 点を確認する
 
@@ -2213,13 +2213,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 易に会社を選定せずリサーチをした上で発注しましょう。
 
-会社選定は慎重に行いましょう © StockSun Inc. All Rights Reserved.
+会社選定は慎重に行いましょう ©  Inc. All Rights Reserved.
 
 # 05 インフルエンサー
 
 751
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 高単価商材とインスタグラマー PR は相性が悪く、効果を発揮しない可能性があり
 
@@ -2261,19 +2261,19 @@ CVR を高める施策です。ギフティングを伴うアンバサダー施�
 
 に設定するのが一般的です。
 
-5-2-5 ギフティング投稿を活用できているか © StockSun Inc. All Rights Reserved.
+5-2-5 ギフティング投稿を活用できているか ©  Inc. All Rights Reserved.
 
 # 05 インフルエンサー
 
 752
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 5-2-6 タイアップラベルを活用できているか(ステマを防ぐ)
 
 Ex.
 
-# …StockSun 株式会社
+# … 株式会社
 
 広告
 
@@ -2307,13 +2307,13 @@ Ex.
 
 フルエンサー
 
-5-3-3 認知目的なのか獲得目的なのか © StockSun Inc. All Rights Reserved.
+5-3-3 認知目的なのか獲得目的なのか ©  Inc. All Rights Reserved.
 
 # 05 インフルエンサー
 
 753
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 例：焼肉屋 男性が好む → 男性インフルエンサーである必要はない
 
@@ -2363,13 +2363,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 5-4-3 UGC を促進するための商品ギフティングを伴う
 
-アンバサダーマーケを実施できているか © StockSun Inc. All Rights Reserved.
+アンバサダーマーケを実施できているか ©  Inc. All Rights Reserved.
 
 # 06 番外編
 
 754
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 メインサービスを説明するフィード投稿を作成しプロフィールにまとめます。
 
@@ -2409,13 +2409,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 リットリンクを活用しましょう
 
-6-1 コンバージョン © StockSun Inc. All Rights Reserved.
+6-1 コンバージョン ©  Inc. All Rights Reserved.
 
 # 06 番外編
 
 755
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 LINE 登録率の向上を目的に、LINE 公式登録特典として PDF もしくはクーポンの設定
 
@@ -2455,13 +2455,13 @@ LINE 登録率の向上を目的に、LINE 公式登録特典として PDF も�
 
 カーを追加することでストーリーの中にも現れます。
 
-6-1-10 位置情報を使えているか © StockSun Inc. All Rights Reserved.
+6-1-10 位置情報を使えているか ©  Inc. All Rights Reserved.
 
 # 06 番外編
 
 756
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 ハイライトは、過去に投稿して削除されたストーリーズをまとめて残すことができ
 
@@ -2501,13 +2501,13 @@ UGC とは、実際のユーザーが作成した動画や写真、レビュー�
 
 上がるという調査結果もあります。
 
-6-1-13 UGC をシェア © StockSun Inc. All Rights Reserved.
+6-1-13 UGC をシェア ©  Inc. All Rights Reserved.
 
 # 06 番外編
 
 757
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 ● フォロー数が 3,000 人を超えているフォロワー、外国人、を 1 日 100 人ずつ消し
 
@@ -2545,13 +2545,13 @@ Instagram 運用ガイドライン StockSun 品質ガイドライン
 
 もエンゲージメントを高めることが目的です。
 
-6-2-4 1 ヶ月だけフォロワーに対していいね周り © StockSun Inc. All Rights Reserved.
+6-2-4 1 ヶ月だけフォロワーに対していいね周り ©  Inc. All Rights Reserved.
 
 # 06 番外編
 
 758
 
-Instagram 運用ガイドライン StockSun 品質ガイドライン
+Instagram 運用ガイドライン  品質ガイドライン
 
 リールの出演者にファンがついている可能性がある。
 

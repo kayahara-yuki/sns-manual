@@ -60,7 +60,7 @@ p.639
 
 5. シナリオ構築 p.655
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
@@ -124,7 +124,7 @@ p.659
 
 8. 配信方法 p.669
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
@@ -176,7 +176,7 @@ p.682
 
 15. AB テスト p.690
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 ## 目次 (項目番号クリックで記載ページに移動)
 
@@ -236,7 +236,7 @@ p.691
 
 21. クレーム発生時の対応 p.702
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 更に詳しい分析 Ex.
 
@@ -352,7 +352,7 @@ Threat
 
 競合の LINE アカウント調査に力を入れましょう
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 # 01 事前リサーチ
 
@@ -388,7 +388,7 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン �
 
 競合の LINE アカウントを早めに登録しましょう
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 # 01 事前リサーチ
 
@@ -442,7 +442,7 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン �
 
 競合分析によるユーザーインサイトを理解しましょう
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved.
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved.
 
 # 01 事前リサーチ
 
@@ -484,7 +484,7 @@ b. 感情的ニーズ（例：安心感、ステータス）
 
 ヒアリングシート記入例
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン © StockSun Inc. All Rights Reserved. 643
+LINE マーケティングガイドライン  品質ガイドライン ©  Inc. All Rights Reserved. 643
 
 2-1 アカウントの役割
 
@@ -548,9 +548,9 @@ K
 
 アカウントの役割の明確化と一貫性の重要性
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
-# 02 アカウントコンセプト © StockSun Inc. All Rights Reserved.
+# 02 アカウントコンセプト ©  Inc. All Rights Reserved.
 
 # 02 アカウントコンセプト
 
@@ -570,7 +570,7 @@ LINE 公式アカウントの短期的目標、長期的目標を明確に設定
 
 ○ 例）ブランド認知度の大幅な向上、顧客ロイヤリティの強化、新規市場の開拓
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 > 監修者
 
@@ -596,7 +596,7 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 可能になります。
 
-KPI が不透明なのは絶対に NG です © StockSun Inc. All Rights Reserved. 645
+KPI が不透明なのは絶対に NG です ©  Inc. All Rights Reserved. 645
 
 3-1 ユーザーの購買プロセス
 
@@ -608,13 +608,13 @@ KPI が不透明なのは絶対に NG です © StockSun Inc. All Rights Reserve
 
 ユーザーの購買プロセス Ex.
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 ユーザーの購買プロセス Ex.
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved. 646
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved. 646
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 > 監修者
 
@@ -658,7 +658,7 @@ LINE に登録する際に、事業に合ったタッチポイントを検討す
 
 これらを意識して配置する
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved. 647
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved. 647
 
 3-3 登録促進施策の設計
 
@@ -670,23 +670,23 @@ LINE に登録する際に、事業に合ったタッチポイントを検討す
 
 リアル店舗の場合、LINE 登録を促すためのオペレーションマニュアルを作成する。
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 登録ベネフィットの例 ① Ex.
 
 登録ベネフィットの例 ② Ex.
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved. 648
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved. 648
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 登録ベネフィットの例 ③ Ex.
 
 登録ベネフィットの例 ④ Ex.
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved. 649
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved. 649
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 オペレーションマニュアルの具体例 Ex.
 
@@ -736,9 +736,9 @@ https://www.lycbiz.com/jp/service/line-mini-app/
 
 潜在層・顕在層向けの特典は必ず両方用意してください
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved. 650
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved. 650
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 3-4 プロフィールページの設計
 
@@ -780,13 +780,13 @@ https://www.lycbiz.com/jp/manual/OfficialAccountManager/profile/
 
 プロフィール背景画像は必ず設定してください
 
-# 03 アカウント戦略（導線設計） © StockSun Inc. All Rights Reserved.
+# 03 アカウント戦略（導線設計） ©  Inc. All Rights Reserved.
 
 # 03 アカウント戦略（導線設計）
 
 651
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 3-5 ターゲットごとにカスタマイズした導線設計
 
@@ -810,13 +810,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ことで、効果的なマーケティングが可能になります。
 
-ターゲットの属性にあった配信をしてください © StockSun Inc. All Rights Reserved.
+ターゲットの属性にあった配信をしてください ©  Inc. All Rights Reserved.
 
 # 03 アカウント戦略（導線設計）
 
 652
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 3-6 各フェーズの目標設定
 
@@ -852,13 +852,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 を実装しないことも多いです。
 
-SNS 経由のユーザーにはアンケートを実施しないことが多いです © StockSun Inc. All Rights Reserved.
+SNS 経由のユーザーにはアンケートを実施しないことが多いです ©  Inc. All Rights Reserved.
 
 # 04 各種デザインの作成
 
 653
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 4-1 デザインの一貫性
 
@@ -868,13 +868,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 4-2 デザインのメリハリ
 
-重要な情報は、特に目立つようにデザインにする。 © StockSun Inc. All Rights Reserved.
+重要な情報は、特に目立つようにデザインにする。 ©  Inc. All Rights Reserved.
 
 # 04 各種デザインの作成
 
 654
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 デザインのポイント Ex.
 
@@ -894,13 +894,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 いため、右側の方が CTR が高くなる傾向があります。
 
-クリック率を上げたいなら右に訴求したい内容を置きましょう © StockSun Inc. All Rights Reserved.
+クリック率を上げたいなら右に訴求したい内容を置きましょう ©  Inc. All Rights Reserved.
 
 # 05 シナリオ構築
 
 655
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 5-1 シナリオの目的
 
@@ -926,13 +926,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 は、ユーザーの属性によっても異なるため、その点も考慮する。
 
-Ex. © StockSun Inc. All Rights Reserved.
+Ex. ©  Inc. All Rights Reserved.
 
 # 05 シナリオ構築
 
 656
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 Ex.
 
@@ -984,13 +984,13 @@ Ex.
 
 うにする。
 
-シナリオ設計では以下の 6 点を必ず押えてください © StockSun Inc. All Rights Reserved.
+シナリオ設計では以下の 6 点を必ず押えてください ©  Inc. All Rights Reserved.
 
 # 05 シナリオ構築
 
 657
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 > 監修者
 
@@ -1036,13 +1036,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 例）「コスト削減」「時間節約」
 
-「即効性」など。 © StockSun Inc. All Rights Reserved.
+「即効性」など。 ©  Inc. All Rights Reserved.
 
 # 05 シナリオ構築
 
 658
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 5-4 CTA の設定
 
@@ -1054,13 +1054,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved.
+K©  Inc. All Rights Reserved.
 
 # 06 アカウント構築
 
 659
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 6-1 アカウントの作成方法
 
@@ -1098,13 +1098,13 @@ K
 
 め、CVR が向上します。
 
-意図しない離脱を防ぐためにパラメーター付与は必須です © StockSun Inc. All Rights Reserved.
+意図しない離脱を防ぐためにパラメーター付与は必須です ©  Inc. All Rights Reserved.
 
 # 06 アカウント構築
 
 660
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 6-4 URL 設定のアクション設定（L ステップ）
 
@@ -1112,13 +1112,13 @@ URL をメッセージに挿入している場合は、かならずアクショ�
 
 特に、クリックの有無を知るために、すべての URL にタグ付けをする。
 
-Ex. © StockSun Inc. All Rights Reserved.
+Ex. ©  Inc. All Rights Reserved.
 
 # 06 アカウント構築
 
 661
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 6-5 カルーセルの代替テキスト設定（L ステップ）
 
@@ -1138,13 +1138,13 @@ Ex.
 
 法とは？！」などを設定しましょう。
 
-代替テキストを設定しないと開封率が下がるので注意してください © StockSun Inc. All Rights Reserved.
+代替テキストを設定しないと開封率が下がるので注意してください ©  Inc. All Rights Reserved.
 
 # 06 アカウント構築
 
 662
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 6-6 リッチメニュー設定
 
@@ -1184,13 +1184,13 @@ Ex.
 
 が実現するので、見えない部分ですが力を入れるべき部分になります。
 
-見えない部分ですが、後々の工数削減になります © StockSun Inc. All Rights Reserved.
+見えない部分ですが、後々の工数削減になります ©  Inc. All Rights Reserved.
 
 # 06 アカウント構築
 
 663
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 6-8 動作テスト
 
@@ -1200,13 +1200,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 納品前チェックシート Ex.
 
-雛形を見てみる © StockSun Inc. All Rights Reserved.
+雛形を見てみる ©  Inc. All Rights Reserved.
 
 # 07 施策のデータ取得
 
 664
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 7-1 データ取得する項目
 
@@ -1236,13 +1236,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ● 友だち登録日
 
-● 最終反応日 © StockSun Inc. All Rights Reserved.
+● 最終反応日 ©  Inc. All Rights Reserved.
 
 # 07 施策のデータ取得
 
 665
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 7-2 競合他社の LINE 活用状況
 
@@ -1250,13 +1250,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ティングやパーソナライズしたメッセージ配信を実施することが可能になる。
 
-Ex. © StockSun Inc. All Rights Reserved.
+Ex. ©  Inc. All Rights Reserved.
 
 # 07 施策のデータ取得
 
 666
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 Ex.
 
@@ -1274,13 +1274,13 @@ LINE 公式アカウントのメッセージ配信の効果を計測したい行
 
 https://campus.line.biz/line-official-account/courses/features/lessons/linetag
 
-正確な数値を測るためにタグは必ず設置しましょう © StockSun Inc. All Rights Reserved.
+正確な数値を測るためにタグは必ず設置しましょう ©  Inc. All Rights Reserved.
 
 # 07 施策のデータ取得
 
 667
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 7-3 テンプレートやアクションからデータ抽出（L ステップ）
 
@@ -1304,13 +1304,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 例）友だち登録日、説明会申し込み日、有料会員入会日、最終反応日、
 
-スコアリング © StockSun Inc. All Rights Reserved.
+スコアリング ©  Inc. All Rights Reserved.
 
 # 07 施策のデータ取得
 
 668
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 7-4 クロス分析（L ステップ）
 
@@ -1334,13 +1334,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 者に共有する。
 
-クロス分析イメージ Ex. © StockSun Inc. All Rights Reserved.
+クロス分析イメージ Ex. ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 669
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-1 初回メッセージのオファー
 
@@ -1368,13 +1368,13 @@ EC サイトなどを運用している企業だと、ID 連携を初回メッ�
 
 直後が最も熱量が高いため、初回オファーは必須です。
 
-一番熱量高い瞬間に必ずオファーをしましょう © StockSun Inc. All Rights Reserved.
+一番熱量高い瞬間に必ずオファーをしましょう ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 670
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-2 メッセージ作成時の重要ポイント
 
@@ -1414,13 +1414,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 8-4 リッチメニューの目的
 
-リッチメニューは、目的を明確にしたうえで設定する。 © StockSun Inc. All Rights Reserved.
+リッチメニューは、目的を明確にしたうえで設定する。 ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 671
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-5 リッチメニューで意識すべきポイント
 
@@ -1438,13 +1438,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved.
+K©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 672
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 > 監修者
 
@@ -1478,13 +1478,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ことができます。
 
-配信時に考慮すべきこと Ex. © StockSun Inc. All Rights Reserved.
+配信時に考慮すべきこと Ex. ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 673
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-7 長文配信の方法（L ステップ）
 
@@ -1502,13 +1502,13 @@ LINE は本来、長文を読むアプリではなく、短文でのコミュニ
 
 す。
 
-長文は回答フォームで読ませることを推奨します © StockSun Inc. All Rights Reserved.
+長文は回答フォームで読ませることを推奨します ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 674
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-8 配信後の効果測定
 
@@ -1540,13 +1540,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ○ クリック後にどれだけのユーザーが目的のアクション（購入、登録、ダウンロード
 
-など）を完了したかを測定し、配信の最終的な効果を評価する。 © StockSun Inc. All Rights Reserved.
+など）を完了したかを測定し、配信の最終的な効果を評価する。 ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 675
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-9 セグメント配信
 
@@ -1560,13 +1560,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 セグメント配信を上手く使うことで 10％以上ブロック率が下がった事例もあります！
 
-セグメントをしっかり切って、ブロック率を最小化しましょう © StockSun Inc. All Rights Reserved.
+セグメントをしっかり切って、ブロック率を最小化しましょう ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 676
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-10 配信時間
 
@@ -1598,13 +1598,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 重要なのは、運用しているアカウントの業態に合ったタイミングを考えることです。
 
-金曜日の配信は避けることを推奨します © StockSun Inc. All Rights Reserved.
+金曜日の配信は避けることを推奨します ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 677
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-11 通知メッセージについて
 
@@ -1618,21 +1618,21 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 既存顧客を友だち化するために用いる集客施策 Ex.
 
-通知メッセージの活用 Ex. © StockSun Inc. All Rights Reserved.
+通知メッセージの活用 Ex. ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 678
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
-利用用途一覧 Ex. © StockSun Inc. All Rights Reserved.
+利用用途一覧 Ex. ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 679
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-12 アカウント満足度評価
 
@@ -1652,13 +1652,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 でできるのでやったほうがいいです。オススメです。
 
-アンケート活用でエンゲージメント率を高めましょう © StockSun Inc. All Rights Reserved.
+アンケート活用でエンゲージメント率を高めましょう ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 680
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 8-13 外部ツールやミニアプリ
 
@@ -1668,13 +1668,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 るので必要性に応じで選択する。
 
-飲食店における LINE ミニアプリ＆メッセージの効果について Ex. © StockSun Inc. All Rights Reserved.
+飲食店における LINE ミニアプリ＆メッセージの効果について Ex. ©  Inc. All Rights Reserved.
 
 # 08 配信方法
 
 681
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 オススメの外部ツール一覧 Ex.
 
@@ -1688,13 +1688,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 機能など店舗で活躍できる機能があります。ぜひご活用くださいね。
 
-さまざまな機能のついたミニアプリを活用しましょう © StockSun Inc. All Rights Reserved.
+さまざまな機能のついたミニアプリを活用しましょう ©  Inc. All Rights Reserved.
 
 # 09 配信時の注意
 
 682
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 9-1 配信前の確認
 
@@ -1712,13 +1712,13 @@ LINE 公式では、配信後のキャンセルができないため、かなら
 
 有効です。
 
-配信におけるミスは最大限減らしましょう © StockSun Inc. All Rights Reserved.
+配信におけるミスは最大限減らしましょう ©  Inc. All Rights Reserved.
 
 # 09 配信時の注意
 
 683
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 9-3 テスト配信を行い、正しく機能するか確認されているか
 
@@ -1746,13 +1746,13 @@ LINE はほぼ 100％の方がスマホで閲覧するため、配信前に実�
 
 2. ユーザーへのお詫び配信の実施
 
-3. 関係者への情報共有と予防策の検討 © StockSun Inc. All Rights Reserved.
+3. 関係者への情報共有と予防策の検討 ©  Inc. All Rights Reserved.
 
 # 10 ユーザー対応
 
 684
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 10-1 ユーザーメッセージへの対応
 
@@ -1784,13 +1784,13 @@ LINE へのメッセージに対する一括返信内容を設定する。その
 
 減し、信頼構築につながります。
 
-リソース不足の方は、自動応答メッセージを設定しましょう © StockSun Inc. All Rights Reserved.
+リソース不足の方は、自動応答メッセージを設定しましょう ©  Inc. All Rights Reserved.
 
 # 11 顧客データ
 
 685
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 11-1 顧客データ
 
@@ -1822,13 +1822,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 の調査の為に使用することが多く、施策を外してしまう確率を下げられます。
 
-施策成功率向上のために使用しましょう © StockSun Inc. All Rights Reserved.
+施策成功率向上のために使用しましょう ©  Inc. All Rights Reserved.
 
 # 12 定量分析
 
 686
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 12-1 具体的な数値目標の設定
 
@@ -1880,25 +1880,25 @@ KPI 設定項目 Ex.
 
 業種に応じて目標設定シートの活用をしましょう
 
-目標達成シート例 Ex. © StockSun Inc. All Rights Reserved.
+目標達成シート例 Ex. ©  Inc. All Rights Reserved.
 
 # 12 定量分析
 
 687
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 12-2 データの報告・改善
 
 収集したデータは必ず分析して、今後の改善に活かす。
 
-定量データの活用方法具体例 Ex. © StockSun Inc. All Rights Reserved.
+定量データの活用方法具体例 Ex. ©  Inc. All Rights Reserved.
 
 # 13 定性分析
 
 688
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 13-1 データ収集の方法
 
@@ -1924,13 +1924,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 収集した定性データは必ず分析して、今後の改善に活かす。
 
-定性データの活用方法具体例 Ex. © StockSun Inc. All Rights Reserved.
+定性データの活用方法具体例 Ex. ©  Inc. All Rights Reserved.
 
 # 14 分析シート
 
 689
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 14-1 分析シート
 
@@ -1958,13 +1958,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 最低でも、月 1 回は必ずデータを集計するようにしましょう。
 
-データを日常的にモニタリングしましょう © StockSun Inc. All Rights Reserved.
+データを日常的にモニタリングしましょう ©  Inc. All Rights Reserved.
 
 # 15 AB テスト
 
 690
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 15-1 AB テストの目的
 
@@ -1994,13 +1994,13 @@ AB テストは、実施するためのリソースと、実施後のメリッ�
 
 ります。
 
-リソースとメリットを考慮して実施を決定します © StockSun Inc. All Rights Reserved.
+リソースとメリットを考慮して実施を決定します ©  Inc. All Rights Reserved.
 
 # 16 新規ユーザー獲得戦略
 
 691
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 16-1 登録特典
 
@@ -2030,13 +2030,13 @@ SNS、広告、インフルエンサーなどの拡散手法を選定し、タ�
 
 ことをお勧めします。
 
-集客チャネル別パフォーマンス分析の重要性 © StockSun Inc. All Rights Reserved.
+集客チャネル別パフォーマンス分析の重要性 ©  Inc. All Rights Reserved.
 
 # 16 新規ユーザー獲得戦略
 
 692
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 16-3 離脱時のポップアップ
 
@@ -2054,13 +2054,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 しています。
 
-離脱時ポップアップ活用による登録数増加を狙います © StockSun Inc. All Rights Reserved.
+離脱時ポップアップ活用による登録数増加を狙います ©  Inc. All Rights Reserved.
 
 # 16 新規ユーザー獲得戦略
 
 693
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 16-4 （店舗の場合）店頭 POP やスタッフのオペレーション
 
@@ -2084,7 +2084,7 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 成果を見込めます。
 
-会員証代わりの LINE 登録で登録数獲得を目指します © StockSun Inc. All Rights Reserved.
+会員証代わりの LINE 登録で登録数獲得を目指します ©  Inc. All Rights Reserved.
 
 > 監修者 高橋
 
@@ -2092,7 +2092,7 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 694
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 17-1 コンテンツの定期的配信
 
@@ -2120,13 +2120,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 す。
 
-ゴール達成のために教育ステップ設計とコンテンツ化しましょう © StockSun Inc. All Rights Reserved.
+ゴール達成のために教育ステップ設計とコンテンツ化しましょう ©  Inc. All Rights Reserved.
 
 # 17 エンゲージメント向上施策
 
 695
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 17-3 ユーザー参加型のコンテンツ
 
@@ -2160,13 +2160,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 す。必ず実施するようにしましょう。
 
-リマインド機能を活用して参加率向上を狙います © StockSun Inc. All Rights Reserved.
+リマインド機能を活用して参加率向上を狙います ©  Inc. All Rights Reserved.
 
 # 18 売上拡大施策
 
 696
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 18-1 既存顧客に向けて再購入の案内
 
@@ -2188,13 +2188,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 もあるので、馬鹿に出来ません。
 
-休眠顧客への訴求キャンペーンで売上を最大化しましょう © StockSun Inc. All Rights Reserved.
+休眠顧客への訴求キャンペーンで売上を最大化しましょう ©  Inc. All Rights Reserved.
 
 # 18 売上拡大施策
 
 697
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 18-3 スタンプカードやクーポンの設定
 
@@ -2210,13 +2210,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 コンテンツ、早期アクセス）を決定する。
 
-メンバーシップ機能具体例 Ex. © StockSun Inc. All Rights Reserved.
+メンバーシップ機能具体例 Ex. ©  Inc. All Rights Reserved.
 
 # 19 情報管理
 
 698
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 19-1 アカウントへのアクセス権限
 
@@ -2246,13 +2246,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 なっております。必ず実施してください。
 
-情報漏洩防止とプライバシー保護の徹底をしましょう © StockSun Inc. All Rights Reserved.
+情報漏洩防止とプライバシー保護の徹底をしましょう ©  Inc. All Rights Reserved.
 
 # 20 アカウントの BAN 対策
 
 699
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 20-1 LINE 公式の利用規約とガイドライン
 
@@ -2264,13 +2264,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 ご利用いただけないお客様 Ex.
 
-ご利用いただけない業種・業態・サービス Ex. © StockSun Inc. All Rights Reserved.
+ご利用いただけない業種・業態・サービス Ex. ©  Inc. All Rights Reserved.
 
 # 20 アカウントの BAN 対策
 
 700
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 20-2 外部ツールを利用しているか
 
@@ -2278,13 +2278,13 @@ LINE マーケティングガイドライン StockSun 品質ガイドライン
 
 め、適切な外部ツールを選定し、導入する。
 
-オススメの外部ツール一覧 Ex. © StockSun Inc. All Rights Reserved.
+オススメの外部ツール一覧 Ex. ©  Inc. All Rights Reserved.
 
 # 20 アカウントの BAN 対策
 
 701
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 20-3 BAN された場合の対応計画
 
@@ -2296,13 +2296,13 @@ BAN のリスクを評価し、万が一 BAN された場合の対応計画を�
 
 で、リストの確保、復旧時の連絡先として機能する。
 
-BAN された場合の対応フローチャート Ex. © StockSun Inc. All Rights Reserved.
+BAN された場合の対応フローチャート Ex. ©  Inc. All Rights Reserved.
 
 # 21 クレーム発生時の対応
 
 702
 
-LINE マーケティングガイドライン StockSun 品質ガイドライン
+LINE マーケティングガイドライン  品質ガイドライン
 
 21-1 トラブル発生時の対応フロー
 

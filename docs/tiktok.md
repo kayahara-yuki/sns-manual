@@ -52,13 +52,13 @@ TikTok運用ガイドライン
 
 1-4-3. TikTok上で人気の企画やコンセプトはピックアップできているか 
 
-p.470 © StockSun Inc. All Rights Reserved. 
+p.470 ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 463 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 2-1. 戦略概要の設計 
 
@@ -104,13 +104,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 2-4-4. TikTokから遷移した後のユーザーに対する施策は考えられているか 
 
-2.アカウント戦略設計 p.481 © StockSun Inc. All Rights Reserved. 
+2.アカウント戦略設計 p.481 ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 464 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 3.演者設計 
 
@@ -156,13 +156,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 3-1-11. 小道具や衣装等のビジュアルデザインまで検討できているか 
 
-p.493 © StockSun Inc. All Rights Reserved. 
+p.493 ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 465 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 4.アカウント開設 
 
@@ -218,13 +218,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 p.499 
 
-5.クリエイティブ制作 p.503 © StockSun Inc. All Rights Reserved. 
+5.クリエイティブ制作 p.503 ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 466 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 5-3. 撮影 
 
@@ -284,13 +284,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 5-4-12. ジェットカットを活用できているか？ 
 
-5-4-13. BGMは、1動画内で変更できているか？ © StockSun Inc. All Rights Reserved. 
+5-4-13. BGMは、1動画内で変更できているか？ ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 467 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 5-4-14. フリー素材の使用回数は極力減らせているか？ 
 
@@ -344,13 +344,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 6-3-1. 他社の類似動画と比較して平均再生数を超えているか 
 
-6.分析・改善 p.530 © StockSun Inc. All Rights Reserved. 
+6.分析・改善 p.530 ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 468 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 6-4. フォロワー増加数 
 
@@ -392,13 +392,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 6-10. コンバージョン 
 
-6-10-1. CTA（行動喚起）を配置しているか © StockSun Inc. All Rights Reserved. 
+6-10-1. CTA（行動喚起）を配置しているか ©  Inc. All Rights Reserved. 
 
 ## 目次 (項目番号クリックで記載ページに移動) 
 
 469 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 7. TikTokerとSparkAdsの活用 
 
@@ -436,13 +436,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 7-3-1. TikTokの広告収益を理解しているか 
 
-p.541 © StockSun Inc. All Rights Reserved. 
+p.541 ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 470 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 1-1 ビジネスモデル理解 
 
@@ -522,13 +522,13 @@ TikTokのフォーマットにどう組み込むかを計画することが重�
 
 可能になります。 
 
-単にトレンドを追うだけではだめです。 © StockSun Inc. All Rights Reserved. 
+単にトレンドを追うだけではだめです。 ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 471 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 アカウント全体でのメッセージ、コンセプトを作り出すため、競合にないサービス 
 
@@ -580,13 +580,13 @@ TikTokマーケティングは、全体のデジタルマーケティングの�
 
 パクトを測定することができません。 
 
-TikTokはデジタルマーケティング中の単なる1つの手法です © StockSun Inc. All Rights Reserved. 
+TikTokはデジタルマーケティング中の単なる1つの手法です ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 472 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 具体的であればあるほど良い。年齢・性別・職業等の情報だけでなく、悩み・なり 
 
@@ -666,13 +666,13 @@ K
 
 す。 
 
-特定の1人を明確にイメージすることで、動画内容のブレを防げます © StockSun Inc. All Rights Reserved. 
+特定の1人を明確にイメージすることで、動画内容のブレを防げます ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 473 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 1-1-5 ペルソナ設定を出来ているか 
 
@@ -742,13 +742,13 @@ TikTokにおけるペルソナとは、例えば「20代前半の大学生、流
 
 す。これを基に、適切なコンテンツや広告戦略を設計します。 
 
-ターゲットのユーザー像はできるだけ具体的にしましょう © StockSun Inc. All Rights Reserved. 
+ターゲットのユーザー像はできるだけ具体的にしましょう ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 474 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 1-1-6 カスタマージャーニーを描けているか 
 
@@ -798,13 +798,13 @@ Ex.
 
 ● 購入 
 
-○ アクション: ユーザーがウェブサイトやオンラインショップで製品を購入や予約。 © StockSun Inc. All Rights Reserved. 
+○ アクション: ユーザーがウェブサイトやオンラインショップで製品を購入や予約。 ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 475 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 既に先行しているアカウントがある場合、後発であるメリットを活かしたい。 
 
@@ -829,13 +829,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 定めることができます。 
 
-競合を分析した上で、自社の強みを生かした内容にしましょう © StockSun Inc. All Rights Reserved. 
+競合を分析した上で、自社の強みを生かした内容にしましょう ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 476 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 後発である以上、先行者を超えるコンテンツを作らないと意味がない。 
 
@@ -879,13 +879,13 @@ Ex.
 
 ○ 弱み 
 
-○ 伸びている理由 © StockSun Inc. All Rights Reserved. 
+○ 伸びている理由 ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 477 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 「ターゲットが検索しそう」「サービスが狙いたい」という観点でキーワードを最 
 
@@ -909,13 +909,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 上記キーワードの動画を調査し、人気コンテンツを分析しましょう 
 
-> 雛形を見てみる © StockSun Inc. All Rights Reserved.
+> 雛形を見てみる ©  Inc. All Rights Reserved.
 
 # 01 事前調査 
 
 478 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokクリエイティブセンターにある「キーワードインサイト」は 
 
@@ -939,13 +939,13 @@ https://ads.tiktok.com/business/creativecenter/keyword-insights/pc/ja
 
 Ex. 
 
-例えば過去業界を業種を「スキンケア」、期間を30日間に絞ると下記内容で抽出ができる © StockSun Inc. All Rights Reserved. 
+例えば過去業界を業種を「スキンケア」、期間を30日間に絞ると下記内容で抽出ができる ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 479 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 過去にアップされて人気な動画と、最近アップされて人気な動画では後者の方がト 
 
@@ -971,13 +971,13 @@ GoogleトレンドなどでTikTokに限らず世の中のトレンド全体を�
 
 コンテンツを作成することも可能になります。 
 
-トレンドになり始めている動画構成を踏襲しましょう © StockSun Inc. All Rights Reserved. 
+トレンドになり始めている動画構成を踏襲しましょう ©  Inc. All Rights Reserved. 
 
 # 01 事前調査 
 
 480 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokクリエイティブセンターではトレンドであがっている「ハッシュタグ」「楽 
 
@@ -1023,13 +1023,13 @@ https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/j 
 
 でTikTokで伸びている動画がわかります。 
 
-プライベートモードを活用してリサーチしましょう © StockSun Inc. All Rights Reserved. 
+プライベートモードを活用してリサーチしましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 481 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 このアカウントは何のために行うのか、アカウントの成功イメージと、目的/ゴー 
 
@@ -1087,13 +1087,13 @@ TikTokはエンタメ性が高いプラットフォームであるため、単�
 
 ギです。 
 
-幅広い層にアプローチすることが正しいわけではありません © StockSun Inc. All Rights Reserved. 
+幅広い層にアプローチすることが正しいわけではありません ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 482 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 ユーザーはクロスメディアで情報収集を行うように変化してきている。 
 
@@ -1189,13 +1189,13 @@ K
 
 的な成果につながります。 
 
-運用フェーズごとにアクションプランを立てましょう © StockSun Inc. All Rights Reserved. 
+運用フェーズごとにアクションプランを立てましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 483 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 主に、再生回数、視聴維持率、視聴完了率の観点で戦略が上手くいっていないとき 
 
@@ -1255,7 +1255,7 @@ K
 
 麻酔専門医」などはプロフィール文含めて積極的に押し出しましょう。 
 
-定量的な実績は権威性と差別化に繋がります © StockSun Inc. All Rights Reserved.  
+定量的な実績は権威性と差別化に繋がります ©  Inc. All Rights Reserved.  
 
 > 作成者 名嘉眞
 
@@ -1263,7 +1263,7 @@ K
 
 484 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 仮説でも良いので、「このアカウントは視聴者にとって〇〇という優位性が競合と 
 
@@ -1329,13 +1329,13 @@ K
 
 貫性を持った運用が可能になります。 
 
-アカウントの目的が何なのか簡潔に説明できるようにしましょう © StockSun Inc. All Rights Reserved. 
+アカウントの目的が何なのか簡潔に説明できるようにしましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 485 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokの特性上、エンタメ方向に走りがちだがブランディングの軸を定めてどこま 
 
@@ -1395,13 +1395,13 @@ NGだが、治療内容についてややユーモアもたせて解説するの
 
 てエンタメ要素を入れるかが重要です。 
 
-どこに軸をおいてエンタメ要素を入れるか検討しましょう © StockSun Inc. All Rights Reserved. 
+どこに軸をおいてエンタメ要素を入れるか検討しましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 486 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 媒体の特性上、受動的なユーザーが多いからTikTokではニッチすぎるジャンルはお 
 
@@ -1457,13 +1457,13 @@ TikTok内でジャンルに関連する動画を調べ、平均再生数を確�
 
 【例】「美容豆知識」：フォロワー10万以上のアカウントが多い → メジャー。 
 
-「専門医療解説」：フォロワー数が数千 ～1万程度 → ニッチ。 © StockSun Inc. All Rights Reserved. 
+「専門医療解説」：フォロワー数が数千 ～1万程度 → ニッチ。 ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 487 
 
-TikTok運用ガイドライン StockSun品質ガイドライン  
+TikTok運用ガイドライン 品質ガイドライン  
 
 > 作成者 名嘉眞
 
@@ -1513,13 +1513,13 @@ TikTokは拡散性が強く、たくさんの新規ユーザーにリーチす�
 
 （CV）させるかという導線設計を最優先で行う必要があります。 
 
-新規で獲得したユーザーをどこでCVさせるかを優先で設計しましょう © StockSun Inc. All Rights Reserved. 
+新規で獲得したユーザーをどこでCVさせるかを優先で設計しましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 488 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 動画完了した視聴者に次は何のアクションを取って欲しいのか、「セリフ」「テ 
 
@@ -1541,13 +1541,13 @@ Case
 
 には15倍以上の差が出るという実績もあります。 
 
-誘導により、遷移率が15倍以上の差が出るという実績もあります © StockSun Inc. All Rights Reserved. 
+誘導により、遷移率が15倍以上の差が出るという実績もあります ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 489 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 「購買してください」ではユーザーの意思決定ハードルが高い。「無料資料プレゼ 
 
@@ -1573,13 +1573,13 @@ Case
 
 以上増加した事例もあります。 
 
-CV地点のハードルはできるだけ下げましょう © StockSun Inc. All Rights Reserved. 
+CV地点のハードルはできるだけ下げましょう ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 490 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTok上だけでなく、その先の数字（受注数/問合せ数）等も数字として設計す 
 
@@ -1633,13 +1633,13 @@ Ex.
 
 ● TikTok限定キャンペーンで実際の来店数をレポーティングする 
 
-● LINEにTikTok経路のパラメータを設置しておき、公式LINEへの流入数を計測する © StockSun Inc. All Rights Reserved. 
+● LINEにTikTok経路のパラメータを設置しておき、公式LINEへの流入数を計測する ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 491 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 他広告のCPAや、指名検索の増加、SEO順位の向上、営業の受注率向上等の期待さ 
 
@@ -1695,25 +1695,25 @@ K
 
 各ファネルが一定ではなく購買までのフェーズを自由に行き来する 
 
-各ファネルごとに設置されたタッチポイントを線形的にたどって購買に至る © StockSun Inc. All Rights Reserved. 
+各ファネルごとに設置されたタッチポイントを線形的にたどって購買に至る ©  Inc. All Rights Reserved. 
 
 # 02 アカウント戦略設計 
 
 492 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTok上のKPI（例えば再生回数等）だけでなく、LINE遷移率や受注率等のKPIに対 
 
 しても数値下振れ時のプランを用意しておくこと。 
 
-2-5-4 各KPIの進捗に対してバックアッププランを設計できているか © StockSun Inc. All Rights Reserved. 
+2-5-4 各KPIの進捗に対してバックアッププランを設計できているか ©  Inc. All Rights Reserved. 
 
 # 03 演者設計 
 
 493 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 基本的にTikTokマーケティングは中長期施策となるため、その前提で演者を選定す 
 
@@ -1765,13 +1765,13 @@ https://www.tiktok.com/@beem_official?lang=ja-JP
 
 位でのファン化が重要です。 
 
-演者に属人性をつけすぎないよう注意しましょう © StockSun Inc. All Rights Reserved. 
+演者に属人性をつけすぎないよう注意しましょう ©  Inc. All Rights Reserved. 
 
 # 03 演者設計 
 
 494 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 費用はかかるが外部からの演者登用により、社内リソースを削減し、出来るだけ離 
 
@@ -1829,13 +1829,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved. 
+K©  Inc. All Rights Reserved. 
 
 # 03 演者設計 
 
 495 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 コンセプトにもよるが、基本的には演者の知見・経験からくる一次情報や独自情報 
 
@@ -1859,13 +1859,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 ます。 
 
-キャスティングにより、フォロワー獲得数が2.5に増えた事例もあります © StockSun Inc. All Rights Reserved. 
+キャスティングにより、フォロワー獲得数が2.5に増えた事例もあります ©  Inc. All Rights Reserved. 
 
 # 03 演者設計 
 
 496 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視聴者がこの人を見たときに「優しい人だな」「頼れそう」「面白い」といった具 
 
@@ -1915,13 +1915,13 @@ Ex.
 
 Ex. 
 
-> 雛形を見てみる © StockSun Inc. All Rights Reserved.
+> 雛形を見てみる ©  Inc. All Rights Reserved.
 
 # 03 演者設計 
 
 497 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 本人が「こんな自分になりたくない」と思うキャラクターになっていないか。例え 
 
@@ -1957,13 +1957,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 Ex. 
 
-> 雛形を見てみる © StockSun Inc. All Rights Reserved.
+> 雛形を見てみる ©  Inc. All Rights Reserved.
 
 # 03 演者設計 
 
 498 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 同じジャンルの他の人たちと比べて、キャラクターに違いがあるか。「この人なら 
 
@@ -1993,13 +1993,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 https://www.tiktok.com/@yokochildren 
 
-3-1-12 小道具や衣装等のビジュアルデザインまで検討できているか © StockSun Inc. All Rights Reserved. 
+3-1-12 小道具や衣装等のビジュアルデザインまで検討できているか ©  Inc. All Rights Reserved. 
 
 # 04 アカウント開設 
 
 499 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 ビジネスアカウントとは個人アカウントから切り替えることによってオーディエン 
 
@@ -2073,13 +2073,13 @@ G
 
 アカウントタイプにするかを決定する必要があります。 
 
-どちらの設定にもメリット・デメリットがあります © StockSun Inc. All Rights Reserved. 
+どちらの設定にもメリット・デメリットがあります ©  Inc. All Rights Reserved. 
 
 # 04 アカウント開設 
 
 500 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 設定後は必ずメモに残しておくこと。複数人数でアカウントを管理する場合は、漏 
 
@@ -2141,13 +2141,13 @@ G
 
 O
 
-K© StockSun Inc. All Rights Reserved. 
+K©  Inc. All Rights Reserved. 
 
 # 04 アカウント開設 
 
 501 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 演者の顔や会社のロゴ、アカウント名などを載せるようにすること。 
 
@@ -2205,13 +2205,13 @@ K
 
 い情報のみを選択して載せると良いでしょう。 
 
-自己紹介文には一番知ってほしい情報のみを載せましょう © StockSun Inc. All Rights Reserved. 
+自己紹介文には一番知ってほしい情報のみを載せましょう ©  Inc. All Rights Reserved. 
 
 # 04 アカウント開設 
 
 502 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 プロフィールに訪問したユーザーにどこにアクセスして欲しいか、どこに問い合わ 
 
@@ -2233,13 +2233,13 @@ K
 
 絡先や位置情報を設定し、複数のチャネルを活用するようにしましょう。 
 
-多媒体と連携することで、効果を最大化できます © StockSun Inc. All Rights Reserved. 
+多媒体と連携することで、効果を最大化できます ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 503 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 キーワードの検索意図を踏まえて動画を作成すること。そのために、上位表示を 
 
@@ -2299,13 +2299,13 @@ Ex.
 
 ○ 自社ブランドのコンテンツカテゴリーを利用している競合アカウントをチェックす 
 
-る© StockSun Inc. All Rights Reserved. 
+る©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 504 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 人気のある楽曲やチャレンジ、フォーマットをリサーチ。 
 
@@ -2351,13 +2351,13 @@ TikTokのレコメンドシステム Ex.
 
 す。 
 
-再生数だけで伸びていると判断するのは危険です © StockSun Inc. All Rights Reserved. 
+再生数だけで伸びていると判断するのは危険です ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 505 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 ターゲットの認知度や関心に応じてアプローチを変える。 
 
@@ -2415,13 +2415,13 @@ TikTokからどれくらいCVがとれたかレポーティングしやすい
 
 にしましょう。 
 
-具体的なCTAを設けて、どのような行動をすれば良いか明示しましょう © StockSun Inc. All Rights Reserved. 
+具体的なCTAを設けて、どのような行動をすれば良いか明示しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 506 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視覚的に目を引く映像やキャッチーなフレーズ、予測を裏切る展開を使い、視聴者 
 
@@ -2475,13 +2475,13 @@ TikTokは次から次に投稿が出てくるので、投稿がユーザーの�
 
 ズム感の良い構成で、視覚的にも耳に心地よい動画作りが求められます。 
 
-6秒以降はテンポよく構成を作成しましょう © StockSun Inc. All Rights Reserved. 
+6秒以降はテンポよく構成を作成しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 507 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視聴者が動画を見た後に自然と意見を述べたくなるような要素を盛り込むことで 
 
@@ -2537,13 +2537,13 @@ G
 
 価値を持ちます。ターゲット分析に基づき、彼らが求める情報を提供しましょう。 
 
-ターゲット層のニーズをしっかりと把握しましょう © StockSun Inc. All Rights Reserved. 
+ターゲット層のニーズをしっかりと把握しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 508 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 動画のテンポを意識し、視聴者が飽きないように冗長な部分を省き、テンポよく進 
 
@@ -2599,13 +2599,13 @@ G
 
 られます。 
 
-オーガニックな投稿の構成を心がけましょう © StockSun Inc. All Rights Reserved. 
+オーガニックな投稿の構成を心がけましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 509 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視聴者が動画を最後まで視聴したいと思えるように、興味を引き続ける内容やサプ 
 
@@ -2653,13 +2653,13 @@ G
 
 めることで、視聴者が途中で離脱しにくくなる。 
 
-45秒~1分30秒以内に収めることを意識しましょう © StockSun Inc. All Rights Reserved. 
+45秒~1分30秒以内に収めることを意識しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 510 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 衣装や背景がアカウントのブランディングに合っており、コンテンツのテーマに一 
 
@@ -2717,13 +2717,13 @@ Ex.
 
 ○ あとからスロー再生したい時 
 
-○ 手ブレが酷い環境で撮影する時 © StockSun Inc. All Rights Reserved. 
+○ 手ブレが酷い環境で撮影する時 ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 511 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 台本を読む際に不自然な目線にならないようにし、自然な演技を意識する。 
 
@@ -2751,13 +2751,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 与えます。目線やジェスチャーを使い、台本感を出さないよう工夫しましょう。 
 
-台本を読んでいる感を出しすぎないよう注意です © StockSun Inc. All Rights Reserved. 
+台本を読んでいる感を出しすぎないよう注意です ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 512 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 演者の発言と音声が他の要素に被らないようにし、視聴者にとって聞きやすい内容 
 
@@ -2785,13 +2785,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 ように構成し、クリアな音声を確保する。 
 
-発言が重ならないよう構成を意識しましょう © StockSun Inc. All Rights Reserved. 
+発言が重ならないよう構成を意識しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 513 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 画面内の重要な要素が切れないようにセーフマージンを意識して画角を調整する。 
 
@@ -2817,13 +2817,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 ：https://ads.tiktok.com/help/article/tiktok-reservation-in-feed-ads-reach-frequency?aadvid=740 
 
-4681784232935441&lang=ja © StockSun Inc. All Rights Reserved. 
+4681784232935441&lang=ja ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 514 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokでは縦型動画が主流なので、縦向きで撮影し、視聴者が快適に視聴できるよ 
 
@@ -2873,13 +2873,13 @@ Ex.
 
 い、雑音やエコーを防ぐことで、良質な音声コンテンツを提供できます。 
 
-必ずイヤホンを使ってノイズが入っていないか確認しましょう © StockSun Inc. All Rights Reserved. 
+必ずイヤホンを使ってノイズが入っていないか確認しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 515 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 動画に安定感を持たせるため、スタビライザーを使用してカメラの揺れを防ぐ。 
 
@@ -2939,13 +2939,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 しょう。 
 
-複数のアングルから撮影を行うと視覚的に飽きにくくなります © StockSun Inc. All Rights Reserved. 
+複数のアングルから撮影を行うと視覚的に飽きにくくなります ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 516 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 人間が一点を見続けると、脳が集中状態に入りやすくなります。 
 
@@ -2989,13 +2989,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 にわかりやすく、出演者とテロップのバランスを取ることが重要です。 
 
-撮影の時点で、テロップをどの配置にするかを考慮して撮影しましょう © StockSun Inc. All Rights Reserved. 
+撮影の時点で、テロップをどの配置にするかを考慮して撮影しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 517 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 テロップは16文字以内、2行以内に収めて、視聴者が簡単に読めるようにする。 
 
@@ -3025,13 +3025,13 @@ Ex.
 
 しょう。 
 
-視聴者がテロップを読み取れるかを意識しましょう © StockSun Inc. All Rights Reserved. 
+視聴者がテロップを読み取れるかを意識しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 518 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 異なるフォントを使い分けて、テロップや画面内の要素を強調し、視覚的にメリハ 
 
@@ -3085,13 +3085,13 @@ m_webapp=1&sender_device=pc&web_id=7159460251708163586
 
 あるテロップは、視聴者の興味を維持しやすいです。 
 
-動きのあるテロップは、視聴者の興味を維持しやすいです © StockSun Inc. All Rights Reserved. 
+動きのあるテロップは、視聴者の興味を維持しやすいです ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 519 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 コンテンツに使用する効果音（SE）を豊富に取り揃え、動画に合わせて多様な音 
 
@@ -3135,13 +3135,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 れます。適切なタイミングで複数のアニメーションを併用することが重要です。 
 
-強調すべきポイントでアニメーションを重ねましょう © StockSun Inc. All Rights Reserved. 
+強調すべきポイントでアニメーションを重ねましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 520 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 不要なシーンをスピーディーにカットし、テンポ感を持たせる「ジェットカット」 
 
@@ -3171,13 +3171,13 @@ BGMを動画内に切り替えることで、音楽的なインパクトが増�
 
 Ex. 
 
-Ex. © StockSun Inc. All Rights Reserved. 
+Ex. ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 521 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 フリー素材の使用は最小限にとどめ、オリジナルのコンテンツを重視して、ブラン 
 
@@ -3209,7 +3209,7 @@ TikTokなどのSNSでは、縦向きのフルスクリーン形式が最適で�
 
 での投稿が視覚的に一貫し、視聴者の目を引きやすくなります。 
 
-縦型のフルスクリーン形式を推奨しています © StockSun Inc. All Rights Reserved. 
+縦型のフルスクリーン形式を推奨しています ©  Inc. All Rights Reserved. 
 
 Ex. 
 
@@ -3217,7 +3217,7 @@ Ex.
 
 522 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視聴者の関心を引くために冒頭から出演者を登場させ、顔出しが効果的な場合は顔 
 
@@ -3245,7 +3245,7 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 なメッセージを伝えることができます。 
 
-ナレーションを入れて音声的な情報を補完しましょう © StockSun Inc. All Rights Reserved. 
+ナレーションを入れて音声的な情報を補完しましょう ©  Inc. All Rights Reserved. 
 
 Ex. 
 
@@ -3253,7 +3253,7 @@ Ex.
 
 523 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 重要な情報はフルテロップで表示し、視覚的に分かりやすく、誰でも理解できるよ 
 
@@ -3293,13 +3293,13 @@ SNSは音声なしで視聴されることが多いのでフルテロップ推�
 
 ために、録音後のノイズ除去が必要です。 
 
-音声間のノイズ除去ができているか確認しましょう © StockSun Inc. All Rights Reserved. 
+音声間のノイズ除去ができているか確認しましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 524 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 位置情報を設定して、ターゲット層に合わせたローカルな視聴者にもリーチできる 
 
@@ -3321,13 +3321,13 @@ Ex.
 
 ます。 
 
-位置情報の追加でローカルな視聴者にもリーチできます © StockSun Inc. All Rights Reserved. 
+位置情報の追加でローカルな視聴者にもリーチできます ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 525 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 ハッシュタグを適切に選定し、関連性のあるキーワードと適切な数で使用すること 
 
@@ -3373,13 +3373,13 @@ K
 
 うなデザインにすることが求められます。 
 
-サムネイルはクリックしたくなるデザインを心がけましょう © StockSun Inc. All Rights Reserved. 
+サムネイルはクリックしたくなるデザインを心がけましょう ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 526 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視聴者とのエンゲージメントを高めるため、コメント機能をオンにして意見や感想 
 
@@ -3397,13 +3397,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 コメント機能はオンにすることを推奨です 
 
-Ex. © StockSun Inc. All Rights Reserved. 
+Ex. ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 527 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 公開範囲を「誰でも」に設定し、可能な限り多くの視聴者にリーチする。 
 
@@ -3421,13 +3421,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 特に理由がない場合は、公開範囲を誰でもに設定しましょう 
 
-Ex. © StockSun Inc. All Rights Reserved. 
+Ex. ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 528 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 適切な投稿時間はアカウントによって異なるため、検証して最適化していきましょ 
 
@@ -3509,13 +3509,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 4.1％ お風呂に入りながら 
 
-31.8％ 寝る前に © StockSun Inc. All Rights Reserved. 
+31.8％ 寝る前に ©  Inc. All Rights Reserved. 
 
 # 05 クリエイティブ制作 
 
 529 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 投稿後、初期のエンゲージメントが高くなるように100回以上の再生を3時間以内に 
 
@@ -3543,7 +3543,7 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 ります。定期的に、かつ適度に投稿を続けます。 
 
-過剰な投稿は控えるべきです © StockSun Inc. All Rights Reserved.  
+過剰な投稿は控えるべきです ©  Inc. All Rights Reserved.  
 
 > 監修者 九島
 
@@ -3551,7 +3551,7 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 530 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 冒頭3秒で"●●な人はいますぐこの動画を見てください"のような「問いかけ」を 
 
@@ -3577,13 +3577,13 @@ TikTokにおいて、視聴維持率は最も重要な指標であり、動画�
 
 す。 
 
-視聴維持率はTikTokにおける、最重要指標です © StockSun Inc. All Rights Reserved. 
+視聴維持率はTikTokにおける、最重要指標です ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 531 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 離脱箇所の内容を見直し、視聴者の興味を持続させる 
 
@@ -3609,13 +3609,13 @@ Ex.
 
 ことで、迅速なPDCAサイクルを回すことが求められます。 
 
-インサイトを活用して、どこでユーザーが離脱したのか分析しましょう © StockSun Inc. All Rights Reserved. 
+インサイトを活用して、どこでユーザーが離脱したのか分析しましょう ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 532 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視覚効果や音楽で変化をつけ、飽きさせない工夫をする 
 
@@ -3661,13 +3661,13 @@ Ex.
 
 コメント欄に誘導する内容が動画の最後に入っている 
 
-参考： https://vt.tiktok.com/ZS6fpLR2v/ © StockSun Inc. All Rights Reserved. 
+参考： https://vt.tiktok.com/ZS6fpLR2v/ ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 533 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 友達に送りたくなるクイズやストーリーを追加 
 
@@ -3693,13 +3693,13 @@ Ex.
 
 参考： https://www.tiktok.com/@wr2207store/video/7212211916381506818 
 
-※基本冒頭でインパクトが弱いことが多い © StockSun Inc. All Rights Reserved. 
+※基本冒頭でインパクトが弱いことが多い ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 534 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokのインサイトから各動画ごとに「新しいフォロワー」を増加数を確認するこ 
 
@@ -3731,13 +3731,13 @@ Ex.
 
 ウントという認知、出演者のファンにさせることが重要になります。 
 
-フォローする理由作りを明確にしましょう © StockSun Inc. All Rights Reserved. 
+フォローする理由作りを明確にしましょう ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 535 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokが一番見られているのは帰宅後の時間帯なので、16:00以降がボリュームゾー 
 
@@ -3817,13 +3817,13 @@ TikTokのボリュームゾーンは夕方~24:00ごろだが、トラックの�
 
 4.1％ お風呂に入りながら 
 
-31.8％ 寝る前に © StockSun Inc. All Rights Reserved. 
+31.8％ 寝る前に ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 536 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 曜日ごとに視聴数やエンゲージメントの差異があるかを分析し、見つかればなるべ 
 
@@ -3867,13 +3867,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 金曜20時で動画が伸びない→ 金曜7時と15時投稿→伸びない場合は日曜20時など 
 
-1000再生に届かない場合は、試験的に大きく時間をずらしましょう © StockSun Inc. All Rights Reserved. 
+1000再生に届かない場合は、試験的に大きく時間をずらしましょう ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 537 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 共感を呼ぶテーマや視聴者の体験に関連する内容を制作 
 
@@ -3929,13 +3929,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 ○ コメント欄でのやりとり=ユーザーのエンゲージメント向上につながるため基本コメ 
 
-ント返しは推奨 © StockSun Inc. All Rights Reserved. 
+ント返しは推奨 ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 538 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 1-4-2 事前調査_トレンド調査を参照 
 
@@ -3955,13 +3955,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 6-8-1 再生回数が10万回以上の音楽を使用しているか 
 
-Ex. © StockSun Inc. All Rights Reserved. 
+Ex. ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 539 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 アクション動画にはアップテンポ、感動系にはスローな曲を選ぶ 
 
@@ -3997,13 +3997,13 @@ Ex.
 
 1秒以内で映像を切り替えるジェットカットで飽きさせない構成 
 
-参考： https://www.tiktok.com/@bayashi.tiktok/video/7230633191252462849 © StockSun Inc. All Rights Reserved. 
+参考： https://www.tiktok.com/@bayashi.tiktok/video/7230633191252462849 ©  Inc. All Rights Reserved. 
 
 # 06 分析・改善 
 
 540 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 視覚効果を補強する説明的なテキストを挿入 
 
@@ -4043,13 +4043,13 @@ TikTokにおいて広告感が強いものはユーザーに嫌悪感を持た�
 
 ありません。 
 
-ライト目なCTAを心がけましょう © StockSun Inc. All Rights Reserved. 
+ライト目なCTAを心がけましょう ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 541 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 認知させたい商品やサービスとTikTokerに親和性がないと、ブランドイメージが伝 
 
@@ -4121,13 +4121,13 @@ G
 
 に直結します。 
 
-フォロワー層の年齢や性別を考慮したTikTokerを選定しましょう © StockSun Inc. All Rights Reserved. 
+フォロワー層の年齢や性別を考慮したTikTokerを選定しましょう ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 542 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 一見フォロワーが多くても、直近1ヶ月の投稿をみると再生回数が1,000回いってい 
 
@@ -4173,13 +4173,13 @@ TikTokerとの連絡手段としては、TikTokアカウントに紐付いたIns
 
 シーが低い方もいるため、トラブルを未然に防ぐために契約書の締結が必須です。 
 
-TikTokerとの連絡手段はInstagramが1番反応率が高いです © StockSun Inc. All Rights Reserved. 
+TikTokerとの連絡手段はInstagramが1番反応率が高いです ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 543 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 TikTokerと連絡がとれた段階でどれくらいの速さで返信がくるか検証することが重 
 
@@ -4241,13 +4241,13 @@ TikTokerと連絡がとれた段階でどれくらいの速さで返信がくる
 
 ルを未然に防ぐために契約書の締結が必須です。 
 
-必ず契約書の締結をしましょう © StockSun Inc. All Rights Reserved. 
+必ず契約書の締結をしましょう ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 544 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 SparkAds（スパークアズ）とはインフルエンサーや一般ユーザーなど、他人が作 
 
@@ -4295,13 +4295,13 @@ CVR率
 
 -4％
 
-CPM © StockSun Inc. All Rights Reserved. 
+CPM ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 545 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 Spark Adsを使用すると、動画視聴数・エンゲージメント率・CVR・CPMなどの 
 
@@ -4363,13 +4363,13 @@ TikTokは認知獲得の入り口であり、獲得したユーザーをどの�
 
 ます。 
 
-TikTokはあくまで認知獲得の入り口であることを忘れずに © StockSun Inc. All Rights Reserved. 
+TikTokはあくまで認知獲得の入り口であることを忘れずに ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 546 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 媒体や代理店からTikTokerを起用したSparkAdsの成功事例が開示されているた め、 
 
@@ -4399,13 +4399,13 @@ TikTok運用ガイドライン StockSun品質ガイドライン
 
 す。 
 
-商材によって、どちらが適切か慎重に意思決定しましょう © StockSun Inc. All Rights Reserved. 
+商材によって、どちらが適切か慎重に意思決定しましょう ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 547 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 オーガニック投稿と広告配信の組み合わせでアカウントの成長を加速させる。 
 
@@ -4433,13 +4433,13 @@ Account Warm-up Organic Beats
 
 Spark Ads 
 
-ビジネスアカウントの開設 フォロー施策 エンゲージメント施策 オーガニック施策 © StockSun Inc. All Rights Reserved. 
+ビジネスアカウントの開設 フォロー施策 エンゲージメント施策 オーガニック施策 ©  Inc. All Rights Reserved. 
 
 # 07 TikTokerとSparkAdsの活用 
 
 548 
 
-TikTok運用ガイドライン StockSun品質ガイドライン 
+TikTok運用ガイドライン 品質ガイドライン 
 
 収益化の中で代表的な方法は、TikTok公式が提供しているCreator Rewards 
 
